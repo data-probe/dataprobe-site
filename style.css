@@ -1,0 +1,15 @@
+html{
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+.hr{
+    margin-left: 31rem;
+    margin-right: 31rem;
+    background-color: blueviolet;
+}
+.hrx{
+    margin-left: 31rem;
+    margin-right: 31rem;
+    margin-top: 3px;
+    background-color: blueviolet;
+}
